@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App';
-import Postitem from './Postitem';
-import Deleteoperation from './Deleteoperation';
+import App from '../src/Components/App';
+import Postitem from '../src/Components/Postitem';
+import Deleteoperation from '../src/Components/Deleteoperation';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

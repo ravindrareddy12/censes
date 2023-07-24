@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import './Post.css'
+import '../Post.css'
 
 
 const ItemForm = () => {

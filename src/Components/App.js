@@ -1,6 +1,6 @@
 import axios from 'axios';
 import React, { useState, useEffect } from 'react';
-import './App.css'
+import '../App.css';
 
 const ItemList = () => {
   const [items, setItems] = useState([]);
